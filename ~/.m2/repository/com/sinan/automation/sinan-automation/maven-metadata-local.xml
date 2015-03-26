@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sinan.automation</groupId>
+  <artifactId>sinan-automation</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150326215415</lastUpdated>
+  </versioning>
+</metadata>
